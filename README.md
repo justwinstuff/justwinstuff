@@ -1,14 +1,14 @@
 <div align="center">
-  <img height="200" src="https://yt3.googleusercontent.com/HeX9pkrolYwfDlfszDOOSkzjeKEWNn2bLNZkjND35qC5YR8JCA2eOYrL_AIFk9SkGdxVkvikAes=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
+  <img height="200" src="https://yt3.googleusercontent.com/OYZIt-YppnibCLtycLe_9lsa2MQvJpYOhsV59ev2FIJW2l0b1mxgqu4uBylDebmvCRCHJZmT2DA=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj"  />
 </div>
 
 ###
 
-<h1 align="center">Hi 👋! My name is EnderDev.</h1>
+<h1 align="center">Hi 👋! My name is WinStuff.</h1>
 
 ###
 
-<p align="center">Hello, I'm a Youtuber. I enjoy technology. I love doing tech stuff like antivirus tests, windows experiments and a lot more! Subscribe to my YouTube channel: @enderdevcom</p>
+<p align="center">Hello, I'm a Youtuber. I enjoy technology. I love doing tech stuff like antivirus tests, windows experiments and a lot more! Subscribe to my YouTube channel: @justwinstuff</p>
 
 ###
 
